@@ -13,3 +13,4 @@ This is my first post in Hugo. Here, I plan to implement the use of Markdown and
 - Changing that to "**" on each end will make the text **bold**
 - > By using the ">" symbol, I have created a blockquote
 - `By using a single back tick on each end of a block of text, Markdown displays the text as code, like shown here`
+- Here, I am adding a link to [The Useless Web](https://theuselessweb.com/)
