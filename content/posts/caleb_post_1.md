@@ -1,6 +1,7 @@
 ---
 title: "Caleb - Tinker with Hugo Content Model"
 date: 2022-08-31T14:57:21-04:00
+author: "Caleb Faris"
 tags: ['Hugo', 'Content Model', 'Tinker', 'Assignment 1']
 draft: true
 ---
