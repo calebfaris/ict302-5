@@ -6,5 +6,5 @@ author: "Jacob Hunt"
 ---
 
 ### How this activity taught me about content types
-Messing around with the markdown file that results in this post taught me some things about a Content Model. A content Model consists of different types, attributes, and data types of content. This post is a content type, made up of a few attributes (The header and this main part of the post). And each of these attributes consist of a certain type of data, in this case, text.
+Messing around with the markdown file that results in this post taught me some things about a Content Model. A Content Model consists of different types, attributes, and data types of content. This post is a content type, made up of a few attributes (The header and this main part of the post). And each of these attributes consist of a certain type of data, in this case, text.
 
