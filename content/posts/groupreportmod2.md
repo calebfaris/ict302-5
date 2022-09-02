@@ -6,7 +6,7 @@ tags: ['Group Report', 'Module 2']
 draft: false
 ---
 
-Our group, group 5, consists of Becca, Jacob, and Caleb. In this module, we completed all of the tasks needed in order to run a Hugo site both locally and publicly. We also began using GitHub to collaboratively work on our site. We began discussing ideas for our project, focusing on ideas that we thought might be unique while also being manageble on WordPress. 
+Our group, Group 5, consists of Becca, Jacob, and Caleb. In this module, we completed all of the tasks needed in order to run a Hugo site both locally and publicly. We also began using GitHub to collaboratively work on our site. We began discussing ideas for our project, focusing on ideas that we thought might be unique while also being manageble on WordPress. 
 
 On Wednesday, we began creating our first Hugo posts, and encountered some problems that were eventually resolved. Now, we have individual posts on Hugo as well as a group post. 
 
