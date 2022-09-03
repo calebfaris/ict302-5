@@ -5,4 +5,4 @@ author: "Rebecca Araiza"
 draft: false
 ---
 
-This assignement made me more fimilar with the use of content models. While intially Hugo does give certain attributes like a time stamp, title, and text, we can add others as well, such as tags and an author to make it personalized and organized. The majority of what we are editing is in the "text" or content portion of the model. With this we can add things like links, headings, and different font types to show seperation of sections. 
+This assignment made me more familiar with the use of content models. While initially Hugo does give certain attributes like a time stamp, title, and text, we can add others as well, such as tags and an author to make it personalized and organized. The majority of what we are editing is in the "text" or content portion of the model. With this we can add things like links, headings, and different font types to show separation of sections. 
