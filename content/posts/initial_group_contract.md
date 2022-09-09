@@ -16,7 +16,7 @@ At Project Pet, we aim to provide the highest level of care for animals by suppl
 
 In our opinion, "A" work will represent a proffesional and aesthetic online appearance. It will include links to appropriate sources, attractive images, and a seamless user interface. Some specific features we wish to include are: 
 
-> -Donation link
+######## -Donation link ########
 
 > -Shop
 
