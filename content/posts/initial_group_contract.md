@@ -12,7 +12,7 @@ Our hypothetical website will mainly be used as a marketing tool for a local ani
 
 Our organizations mission will be:
 
-At Project Pet, we aim to provide the highest level of care for animals by supplying the resources, education, and outreach needed to connect them with loving humans. 
+* At Project Pet, we aim to provide the highest level of care for animals by supplying the resources, education, and outreach needed to connect them with loving humans. *
 
 In our opinion, "A" work will represent a proffesional and aesthetic online appearance. It will include links to appropriate sources, attractive images, and a seamless user interface. Some specific features we wish to include are: 
 
