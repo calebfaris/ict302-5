@@ -14,9 +14,9 @@ Our organizations mission will be:
 
 > *At Project Pet, we aim to provide the highest level of care for animals by supplying the resources, education, and outreach needed to connect them with loving humans.*
 
-In our opinion, "A" work will represent a proffesional and aesthetic online appearance. It will include links to appropriate sources, attractive images, and a seamless user interface. Some specific features we wish to include are: 
+In our opinion, ***"A"*** work will represent a proffesional and aesthetic online appearance. It will include links to appropriate sources, attractive images, and a seamless user interface. Some specific features we wish to include are: 
 
-###### -Donation link ######
+> -Donation link 
 
 > -Shop
 
@@ -30,4 +30,20 @@ In our opinion, "A" work will represent a proffesional and aesthetic online appe
 
 > -Mission
 
-To an unknowing stranger, an A website should be indistingushable from a real, authentic pet-focused website. 
+To an unknowing stranger, an ***"A"*** website should be indistingushable from a real, authentic pet-focused website. 
+
+
+
+A website that should be awarded a ***"B"*** will 
+
+
+
+***"C"*** work will 
+
+
+
+Our hypothetical website would be worthy of a ***"D"*** if
+
+
+
+If our website managed to be absolutely terrible, bottom of the barrel work, it would be given an ***"F"***. This website would 
