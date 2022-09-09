@@ -7,3 +7,4 @@ draft: true
 ---
 
 This is our initial group contract
+a description of what you have in mind for your hypothetical website as well as clear, specific guidelines for what kind of final project will qualify as "A," "B," "C," "D," and "E" work
