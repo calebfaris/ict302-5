@@ -16,11 +16,17 @@ Our organizations mission will be:
 In our opinion, "A" work will represent a proffesional and aesthetic online appearance. It will include links to appropriate sources, attractive images, and a seamless user interface. Some specific features we wish to include are: 
 
 -Donation link
+
 -Shop
+
 -Pet finder
+
 -Events page
+
 -Services page
+
 -Contact page
+
 -Mission
 
 To an unknowing stranger, our website should be indistingushable from a real, authentic pet-focused website. 
