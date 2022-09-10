@@ -38,7 +38,7 @@ A website that should be awarded a ***"B"*** will
 
 
 
-***"C"*** work will 
+***"C"*** work will lack material and content, but still represent the skeletal structure of an animal shelter website. 
 
 
 
