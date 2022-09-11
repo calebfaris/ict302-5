@@ -6,7 +6,7 @@ tags: ['Personal Report', 'Module 3', 'I Can']
 draft: false
 ---
 
-With this week being shorter than normal, I don't feel like I was able to work towards mastery of our "I Can" statements at my usual pace. 
+While this week was shorter than normal, I still feel like I was able to work towards mastery of our "I Can" statements at an appropriate pace. 
 
 I do feel like I specifically developed my knowledge of content management concepts, targeting the "I Can" statement: 
 > I can identify and define key concepts in (web) content management
