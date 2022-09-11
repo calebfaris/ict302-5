@@ -8,7 +8,7 @@ draft: false
 
 While this week was shorter than normal, I still feel like I was able to work towards mastery of our "I Can" statements at an appropriate pace. 
 
-I do feel like I specifically developed my knowledge of content management concepts, targeting the "I Can" statement: 
+Specifically, I developed my knowledge of content management concepts, targeting the "I Can" statement: 
 > I can identify and define key concepts in (web) content management
 
 On Wednesday, we discussed different concepts that are assosciated with content management, including revenue models, the mission of content, and the intended audience of content. Understanding and implementing these concepts will be an important part of our project, and would apply to any content management career. 
