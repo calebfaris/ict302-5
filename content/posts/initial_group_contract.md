@@ -46,4 +46,4 @@ Our hypothetical website would be worthy of a ***"D"*** if it is missing some of
 
 
 
-If our website managed to be absolutely terrible, bottom of the barrel work, it would be given an ***"F"***. This website would not resemble a shelter website at all and will look like a scam.
+If our website managed to be absolutely terrible, bottom of the barrel work, it would be given an ***"F"***. This website would not resemble a shelter website at all and will look like a sketchy website.
