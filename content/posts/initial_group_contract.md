@@ -18,10 +18,18 @@ In our opinion, ***"A"*** work will represent a proffesional and aesthetic onlin
 
 To an unknowing stranger, an ***"A"*** website should be indistingushable from a real, authentic pet-focused website. It will be complete and functional, and filled with different forms of content. It should represent our mission and be considered a **GREAT** website. 
 
+
+
 A website that should be awarded a ***"B"*** will contain everything listed above, but will lack the authentic look of a shelter website.
+
+
 
 ***"C"*** work will lack material and content, but still represent the skeletal structure of an animal shelter website. It will be navigateable but will not mimic a real website. Visitors would question the sites functionality and content.
 
+
+
 Our hypothetical website would be worthy of a ***"D"*** if it is missing some of the main attributes listed above and does not resemble a clean looking website.
+
+
 
 If our website managed to be absolutely terrible, bottom of the barrel work, it would be given an ***"F"***. This website would not resemble a shelter website at all and will look like a sketchy website.
