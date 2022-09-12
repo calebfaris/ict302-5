@@ -20,7 +20,7 @@ To an unknowing stranger, an ***"A"*** website should be indistingushable from a
 
 
 
-A website that should be awarded a ***"B"*** will contain everything listed above, but will lack the authentic look of a shelter website.
+A website that should be awarded a ***"B"*** will contain everything listed above, but will lack the authentic look of a shelter website. It will contain a lot of content but would be considered **MEDIOCRE** by most people. 
 
 
 
