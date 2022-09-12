@@ -14,21 +14,7 @@ Our organizations mission will be:
 
 > *At Project Pet, we aim to provide the highest level of care for animals by supplying the resources, education, and outreach needed to connect them with loving humans.*
 
-In our opinion, ***"A"*** work will represent a proffesional and aesthetic online appearance. It will include links to appropriate sources, attractive images, and a seamless user interface. Some specific features we wish to include are:
-
-> -Donation link
-
-> -Shop
-
-> -Pet finder
-
-> -Events page
-
-> -Services page
-
-> -Contact page
-
-> -Mission
+In our opinion, ***"A"*** work will represent a proffesional and aesthetic online appearance. It will include links to appropriate sources, attractive images, and a seamless user interface. Some specific features we wish to include are: a donation link, a shop, a pet finder, an events page, a services page, a contact page, a mission page.
 
 To an unknowing stranger, an ***"A"*** website should be indistingushable from a real, authentic pet-focused website. It will be complete and functional, and filled with different forms of content. It should represent our mission and be considered a **GREAT** website. 
 
