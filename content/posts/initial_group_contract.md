@@ -24,7 +24,7 @@ A website that should be awarded a ***"B"*** will contain everything listed abov
 
 
 
-***"C"*** work will lack material and content, but still represent the skeletal structure of an animal shelter website. It will be navigaable but will not mimic a real website. Visitors would question the sites functionality and content. Visitors might consider this website **MEDIOCRE**.
+***"C"*** work will lack material and content, but still represent the skeletal structure of an animal shelter website. It will be navigable but will not mimic a real website. Visitors would question the sites functionality and content. Visitors might consider this website **MEDIOCRE**.
 
 
 
