@@ -19,3 +19,7 @@ The workflow from idea to published post could be drastically different between 
 9. When the blog post has been completed on paper, it would have to be transferred into code. Specifically, for a Hugo post, the blog would have to be transferred into Markdown. 
 10. While in a draft state on Hugo, the post would once again have to be reviewed to ensure that all of the information is correct. 
 11. Once complete, the post can then be published onto the web for users to view. 
+
+Personally, I feel like the roles can be very ambiguous and depend on the organization. One person could generate ideas, produce and edit content, and publish the content on Hugo. In other goranizations, these roles could be divided. 
+
+Some of the Hugo features that might benefit the publication workflow include the draft attribute, the last modified attribute, and the publish date attribute. Depedning on the size of the teams producing the content, software like Asana might be used to manage time and tasks. They also might use a cloud based document tool like OneDrive and Microsoft Word to colloboratively work on the project. 
