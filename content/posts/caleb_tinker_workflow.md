@@ -15,4 +15,7 @@ The workflow from idea to published post could be drastically different between 
 5. Someone would assign the blog post to someone who typically creates content and provide them with the generated ideas
 6. The writer would create a draft of the blog post in a Word document, and then share with their superiors 
 7. The superiors would proofread the draft suggest edits, for either grammar or content
-8. The writer would make necessary changes and submit to their superiors for approval. These steps would repeat until the superiors granted access. 
+8. The writer would make necessary changes and submit to their superiors for approval. These steps would repeat until the superiors approved the post. 
+9. When the blog post has been completed on paper, it would have to be transferred into code. Specifically, for a Hugo post, the blog would have to be transferred into Markdown. 
+10. While in a draft state on Hugo, the post would once again have to be reviewed to ensure that all of the information is correct. 
+11. Once complete, the post can then be published onto the web for users to view. 
