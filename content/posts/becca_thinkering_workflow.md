@@ -5,7 +5,7 @@ author: "Becca Araiza"
 tags: ['Tinker', 'Hugo', 'Workflow']
 draft: false
 ---
-when considering this activity these are my initial thoughts when coming up with a workflow process or how ideally I think of the process going.
+When considering this activity these are my initial thoughts when coming up with a workflow process or how ideally I think of the process going.
 
 Steps:
 1. Come up with an idea.
@@ -28,15 +28,10 @@ Take the data and metrics to make sure everything is what the goals is being met
 Continue to keep maintenance overall.
 
 Roles:
-
 Editor
-
 Site planners
-
 Developers
-
 Administrators
-
 Stakeholders
 
 
