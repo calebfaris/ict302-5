@@ -28,10 +28,15 @@ Take the data and metrics to make sure everything is what the goals is being met
 Continue to keep maintenance overall.
 
 Roles:
+
 Editor
+
 Site planners
+
 Developers
+
 Administrators
+
 Stakeholders
 
 
@@ -41,7 +46,7 @@ Other software:
 
 -Text editor
 
--graphics editor
+-Graphics editor
 
 -Word
 
