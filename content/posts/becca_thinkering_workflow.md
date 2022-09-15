@@ -28,27 +28,46 @@ Take the data and metrics to make sure everything is what the goals is being met
 Continue to keep maintenance overall.
 
 Roles:
+
 Editor
+
 Site planners
+
 Developers
+
 Administrators
+
 Stakeholders
 
+
 Other software:
+
 -GitHub
+
 -Text editor
--graphics editor
+
+-Graphics editor
+
 -Word
+
 -Asana
 
-Other considerations
+Other considerations:
+
 -target audience
+
 -objective
+
 -site-structure
+
 -testing
+
 -research
+
 -money/capital/budget
+
 -technology needed
+
 
 While this can be see as a very broad, general list of steps, the specifics could be very variant from company to company. For example, while the technology/editing team maybe the ones making the post, some might be probed by a marketing team. In other instances the company will hire a third-party to create their content for various reasons.
 
