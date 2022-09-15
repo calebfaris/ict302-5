@@ -20,10 +20,10 @@ The workflow from idea to published post could be drastically different between 
 10. While in a draft state on Hugo, the post would once again have to be reviewed to ensure that all of the information is correct. 
 11. Once complete, the post can then be published onto the web for users to view. 
 
-Personally, I feel like the roles can be very ambiguous and depend on the organization. One person could generate ideas, produce and edit content, and publish the content on Hugo. In other goranizations, these roles could be divided. 
+Personally, I feel like the roles can be very ambiguous and depend on the organization. One person could generate ideas, produce and edit content, and publish the content on Hugo. In other organizations, these roles could be divided. 
 
-Some of the Hugo features that might benefit the publication workflow include the draft attribute, the last modified attribute, and the publish date attribute. Depedning on the size of the teams producing the content, software like Asana might be used to manage time and tasks. They also might use a cloud based document tool like OneDrive and Microsoft Word to colloboratively work on the project. 
+Some of the Hugo features that might benefit the publication workflow include the draft attribute, the last modified attribute, and the publish date attribute. Depending on the size of the teams producing the content, software like Asana might be used to manage time and tasks. They also might use a cloud based document tool like OneDrive and Microsoft Word to collaboratively work on the project. 
 
 
 
-Completing this tinkering activity made me think about the implementation of an ***established*** workflow, a structured way of completing the task. In an organization, these procedures have to be known and followed in order to consistently produce quality content. This activity will definitely make my group consider these worflows in our own content management tasks this semester. 
+Completing this tinkering activity made me think about the implementation of an ***established*** workflow, a structured way of completing the task. In an organization, these procedures have to be known and followed in order to consistently produce quality content. This activity will definitely make my group consider these workflows in our own content management tasks this semester. 
