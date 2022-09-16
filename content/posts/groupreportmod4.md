@@ -6,3 +6,4 @@ tags: ['Group Report', 'Module 4']
 draft: false
 ---
 
+This week our group discussed and implemented designated content management workflows. 
