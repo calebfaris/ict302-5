@@ -29,7 +29,7 @@ Continue to keep maintenance overall.
 
 Roles:
 
-Editor
+Editors
 
 Site planners
 
