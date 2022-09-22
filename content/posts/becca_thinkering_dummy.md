@@ -1,8 +1,7 @@
 ---
-title: "Becca - Tinkering with Dummy Website and Menus
+title: "Becca - Tinkering with Dummy Website and Menus"
 date: 2022-09-21T20:21:01-04:00
 author: "Becca Araiza"
-tags: ['Tinker', 'Hugo', 'Menu']
 draft: false
 ---
 In today's activity I think our group realized the major downside of Hugo and it's limitations. While it does provide some basic formatting and themes so you don't have to manually hand code it, I don't think it is the most effective CMS out there.
