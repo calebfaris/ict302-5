@@ -4,7 +4,7 @@ date: 2022-09-25T23:30:42-04:00
 author: "Becca"
 draft: false
 ---
-This week I fell I most improved on two **I can** statements.
+This week I feel like I most improved on two **I can** statements.
 
 The first one being:
 
