@@ -1,7 +1,7 @@
 ---
 title: "Jacob Tinkering With Comparing Hugo and WordPress"
 date: 2022-09-28T22:22:53-04:00
-draft: true
+draft: false
 tags: ['tinker']
 ---
 
