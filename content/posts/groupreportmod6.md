@@ -1,6 +1,6 @@
 ---
 title: "Group Report - Module 6"
-date: 2022-09-23T15:08:31-04:00
+date: 2022-09-30T15:20:31-04:00
 author: "Group 5"
 tags: ['Group Report', 'Module 6']
 draft: false
@@ -11,4 +11,4 @@ On Wednesday we realized the main difference between Hugo and Wordpress. There w
 
 On Friday, we started to establish roles within our WordPress site and talk about the overall design that we wanted to implement. We established that Becca was going to be the administrator title of the site and Jacob and Caleb would be editors. We wanted to give everyone the ability to edit the overall site and make changes as they see fit. We also began to create a list of criteria that we wanted for our template. This included where headings were, menu options, the ability for e-commerce, and overall professionalism. Since there are thousands of options when looking for a theme, so it was hard to narrow down what would be the perfect option. In doing this however, there was a realization that since WordPress is so customizable we could pick a theme and probably makeshift it into what we wanted as long as it had the basics and was free.
 
-In the upcoming weeks, we will continue to enforce our individual contracts and establish a workflow. Setting tasks and a system in place so we are using our time most effective while maintaining good communication. 
+In the upcoming weeks, we will continue to enforce our individual contracts and establish a workflow. Setting tasks and a system in place so we are using our time most effective while maintaining good communication.
