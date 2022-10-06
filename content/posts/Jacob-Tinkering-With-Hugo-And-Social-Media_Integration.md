@@ -1,5 +1,5 @@
 ---
-title: "Jacob Tinkering With Hugo and Social Media_Integration"
+title: "Jacob Tinkering With Hugo and Social Media Integration"
 date: 2022-10-06T12:57:11-04:00
 draft: false
 author: "Jacob Hunt"
