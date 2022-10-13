@@ -1,5 +1,5 @@
 ---
-title: "Caleb_tinker_themes"
+title: "Caleb - Tinker with Themes and CSS in Hugo"
 date: 2022-10-13T00:02:46-04:00
 author: "Caleb Faris"
 tags: ['Tinker', 'Hugo', 'Themes', 'CSS']
