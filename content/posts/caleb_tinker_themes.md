@@ -6,7 +6,7 @@ tags: ['Tinker', 'Hugo', 'Themes', 'CSS']
 draft: false
 ---
 
-Today's tinkering activity introduced my group and I to other the CSS Zen Garden and more Hugo themes. The CSS Zen Garden is a site that highlights the separation of content (the HTML file) and presentation (the CSS style sheet). In that example, the same content could be represented in drastically different visual ways at the click of a button. Once we moved on to examining other Hugo themes, we also saw this principal in action (albeit, a little more cumbersome to implement the changes). 
+Today's tinkering activity introduced my group and I to the CSS Zen Garden and more Hugo themes. The CSS Zen Garden is a site that highlights the separation of content (the HTML file) and presentation (the CSS style sheet). In that example, the same content could be represented in drastically different visual ways at the click of a button. Once we moved on to examining other Hugo themes, we also saw this principal in action (albeit, a little more cumbersome to implement the changes). 
 
 To complete the activity, I found an interesting Hugo theme and downloaded it from Github. I placed it into the themes directory that Hugo uses to visually represent the content. I then changed a line in the configuration file so that it knew which theme directory to use. Overall, this was a fairly straightforward process that allowed me to see how Hugo separates content and presentation. 
 
