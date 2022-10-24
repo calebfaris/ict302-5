@@ -6,3 +6,4 @@ tags: ['Tinker', 'Hugo', 'Templates']
 draft: false
 ---
 
+Unfortunately, this was the first tinkering activity that rendered me unsuccessful in the end. We were instructed to examine the template files that are associated with our theme.
