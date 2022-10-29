@@ -18,11 +18,16 @@ We want our website to represent a professional and aesthetically pleasing onlin
 
 Some specific pages we wish to include in order to obtain this are:
  >  a donation link
-    an e-commerce shop
-    a pet adoption finder
-    an events page
-    a services page
-    and an about us page
+
+>   an e-commerce shop
+
+>   a pet adoption finder
+
+>   an events page
+
+>   a services page
+
+>   and an about us page
 
 Our definition of content would be anything that is posted to our website. This can include articles, events posted, social media post, etc.
 
