@@ -1,5 +1,5 @@
 ---
-title: "Initial Group Contract"
+title: "Revised Group Contract"
 date: 2022-10-28T15:05:50-04:00
 author: "Group 5"
 tags: ['Group Contract']
@@ -24,7 +24,7 @@ Some specific pages we wish to include in order to obtain this are:
     a services page
     and an about us page
 
-Our definition of content would be anything that is posted to our website. This can include articles, events posted, social media post, etc. 
+Our definition of content would be anything that is posted to our website. This can include articles, events posted, social media post, etc.
 
 To an unknowing stranger, an ***"A"*** website should be indistinguishable from a real, authentic pet-focused website. It will have every specific feature from the list above be complete and functional. It should represent our mission and be considered a **GREAT** website.
 
