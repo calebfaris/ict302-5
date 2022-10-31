@@ -10,11 +10,11 @@ For this project, our group's roles will be fairly flexible. Each of us will hav
 
 ### "A" Work
 
-I have communicated effectively with my group throughout the process of creating our website and have ensured that the website looks very presentable and is functional.
+I have communicated effectively with my group throughout the process of creating our website, meaning that I respond to messages from my groupmates within a reasonable time frame and been very clear with what I am doing and what we need to do as a group. I have have ensured that the website looks very presentable and is functional.
 
 ### "B" Work
 
-I have communicated somewhat well throughout this process but all my tasks still get completed to a high standard
+I have communicated somewhat well throughout this process. Sometimes responding late or being somewhat less clear about things pertaining to the website but all my tasks still get completed to a high standard
 
 ### "C" Work
 
@@ -22,7 +22,7 @@ I have communicated somewhat well throughout the process of creating our group's
 
 ### "D" Work
 
-I have communicated with my group very poorly but my tasks were completed, not to a very exceptional level
+I have communicated with my group very poorly, responding late very often and being very unclear with what I am saying to my groupmates but my tasks were completed, not to a very exceptional level
 
 ### "F" Work
 
