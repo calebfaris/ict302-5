@@ -1,7 +1,7 @@
 ---
 title: "Jacob Tinkering With Hugo Developer Tools"
 date: 2022-11-02T15:10:13-04:00
-draft: true
+draft: false
 author: "Jacob"
 tags: ["Tinker", "Tinkering"]
 ---
