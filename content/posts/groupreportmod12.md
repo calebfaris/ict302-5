@@ -1,5 +1,5 @@
 ---
-title: "Groupreportmod12"
+title: "Group Report - Module 12"
 date: 2022-11-12T01:39:31-05:00
 author: "Group 5"
 tags: ["Group Report", "Module 12"]
@@ -7,7 +7,7 @@ draft: false
 ---
 
 
-This week was shorter than typical when examining time spent in class, but our group utilized an unstructured workday on Friday to contiue to improve our Wordpress site. We have continued to implement the appropriate features and content needed to mimic a real animal shleter website, which is crucial to meeting our goals for the semster. 
+This week was shorter than typical when examining time spent in class, but our group utilized an unstructured workday on Friday to continue to improve our Wordpress site. We have continued to implement the appropriate features and content needed to mimic a real animal shelter website, which is crucial to meeting our goals for the semester. 
 
 Specifically, we added more products as well as developed blog posts. We also modified the UI so that navigation and organization of information on the pages was more cohesive and efficient. These improvements will allow our website to be more like a functioning animal shelter site, which is our main goal for this project. At an individual level, each member of our group continued to play an important role in the development of our website. 
 
