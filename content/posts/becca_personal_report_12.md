@@ -1,7 +1,7 @@
 ---
-title: "Becca - Personal Report 12
-date: 2022-11-14T01:06:53-05:00
+title: "Becca - Personal Report 12"
 author: "Becca Araiza"
+date: 2022-11-13T22:22:54-04:00
 draft: false
 ---
 This week I feel like I improved on the following two ***I can*** statements:
